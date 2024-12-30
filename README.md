@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats-navy-omega-26.vercel.app/api?username=Balaji2132&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-navy-omega-26.vercel.app/api?username=Balaji2132&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Balaji2132/Balaji2132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
