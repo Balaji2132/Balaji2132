@@ -4,7 +4,7 @@
 <img align="right" alt="" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=gReLR6hZ&id=3AD1452A85607179EBC3EE9359367CD18FDB0244&thid=OIP.gReLR6hZjwyBxHmfLN1AVwHaFj&mediaurl=https%3a%2f%2fcdn.filestackcontent.com%2fefbSR18hT5uRKuo0zoMA&exph=600&expw=800&q=animated+coding+gif&simid=608056147705030832&FORM=IRPRST&ck=8EFDB3B512ABA3CA532DB47F76F59764&selectedIndex=18&itb=0" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balaji2132&label=Profile%20views&color=0e75b6&style=flat" alt="balaji2132" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balaji2132&theme=onedark" alt="balaji2132" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balaji2132&theme=darkhub" alt="balaji2132" /></a> </p>
 - 🔭 I’m currently working on Digital Art Publishing platform and Market Place [Storyian](https://storyian.com)
 
 - 🌱 I’m currently learning **Spring Boot**
