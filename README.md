@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balaji2132&label=Profile%20views&color=0e75b6&style=flat" alt="balaji2132" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balaji2132&theme=darkhub" alt="balaji2132" /></a> </p>
 - 🔭 I’m currently working on Digital Art Publishing platform and Market Place [Storyian](https://storyian.com)
-
+<img align="right" alt="coding" width="300" src="https://miro.medium.com/v2/resize:fit:1400/1*gReLR6hZjwyBxHmfLN1AVw.gif">
 - 🌱 I’m currently learning **Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://balaji2132.github.io/](https://balaji2132.github.io/)
-<img align="right" alt="coding" width="300" src="https://miro.medium.com/v2/resize:fit:1400/1*gReLR6hZjwyBxHmfLN1AVw.gif">
+
 - 💬 Ask me about **Ruby on Rails, MEARN Stack, React Native, Angular, Vue, Docker, Linux**
 
 - 📫 How to reach me **balajionlyperfection@gmail.com**
