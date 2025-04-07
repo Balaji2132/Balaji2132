@@ -8,11 +8,11 @@
 - 🌱 I’m currently learning **Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://balaji2132.github.io/](https://balaji2132.github.io/)
-
+<img align="right" alt="coding" width="300" src="https://miro.medium.com/v2/resize:fit:1400/1*gReLR6hZjwyBxHmfLN1AVw.gif">
 - 💬 Ask me about **Ruby on Rails, MEARN Stack, React Native, Angular, Vue, Docker, Linux**
 
 - 📫 How to reach me **balajionlyperfection@gmail.com**
-<img align="right" alt="coding" width="300" src="https://miro.medium.com/v2/resize:fit:1400/1*gReLR6hZjwyBxHmfLN1AVw.gif">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/balaji-kashyap-bb0706211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="balaji-kashyap-bb0706211" height="30" width="40" /></a>
