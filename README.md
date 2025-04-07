@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://balaji2132.io)
 <h1 align="center">Hi 👋, I'm Balaji</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*gReLR6hZjwyBxHmfLN1AVw.gif">
+<img align="right" alt="coding" width="300" src="https://miro.medium.com/v2/resize:fit:1400/1*gReLR6hZjwyBxHmfLN1AVw.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balaji2132&label=Profile%20views&color=0e75b6&style=flat" alt="balaji2132" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balaji2132&theme=darkhub" alt="balaji2132" /></a> </p>
